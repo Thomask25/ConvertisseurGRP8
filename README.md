@@ -1,4 +1,5 @@
-# ConvertisseurGRP8
+  # ePICom
+
 
 # Description du projet
 
